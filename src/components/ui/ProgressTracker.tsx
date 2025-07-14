@@ -26,14 +26,24 @@ export function ProgressTracker() {
 
     const dateString = selectedDate.toISOString().split('T')[0];
 
-    if (status === 'nenhum') {
-      await deleteWorkout(dateString);
-    } else {
-      await saveWorkout(dateString, status, notes);
-    }
+    try {
+      if (status === 'nenhum') {
+        console.log('Removendo treino da data:', dateString);
+        await deleteWorkout(dateString);
+      } else {
+        console.log('Salvando treino:', { dateString, status, notes });
+        await saveWorkout(dateString, status, notes);
+      }
 
-    setModalOpen(false);
+      setModalOpen(false);
+      setNotes(''); // Limpar notas após salvar/deletar
+
+    } catch (error) {
+      console.error('Erro ao processar treino:', error);
+      // Manter modal aberto em caso de erro
+    }
   };
+
 
   const getStats = () => {
     let eleCount = 0;
