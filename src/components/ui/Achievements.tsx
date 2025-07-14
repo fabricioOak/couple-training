@@ -159,7 +159,7 @@ export function Achievements() {
       <Card>
         <h2 className="text-2xl font-bold mb-4">Quadro de Conquistas</h2>
         <p className="text-gray-700 mb-6">
-          Desbloqueiem emblemas ao atingirem marcos na vossa jornada. Celebrem cada vitória!
+          Desbloqueiem emblemas ao atingirem marcos na sua jornada. Celebrem cada vitória!
         </p>
 
         {/* Filtros por categoria */}
@@ -281,10 +281,10 @@ function AchievementCard({ achievement, isUnlocked, progress }: AchievementCardP
         {/* Badge de dificuldade */}
         <div className="mb-4">
           <span className={`inline-block px-2 py-1 rounded-full text-xs font-medium ${achievement.difficulty === 'bronze' ? 'bg-amber-200 text-amber-800' :
-              achievement.difficulty === 'prata' ? 'bg-gray-200 text-gray-800' :
-                achievement.difficulty === 'ouro' ? 'bg-yellow-200 text-yellow-800' :
-                  achievement.difficulty === 'platina' ? 'bg-blue-200 text-blue-800' :
-                    'bg-purple-200 text-purple-800'
+            achievement.difficulty === 'prata' ? 'bg-gray-200 text-gray-800' :
+              achievement.difficulty === 'ouro' ? 'bg-yellow-200 text-yellow-800' :
+                achievement.difficulty === 'platina' ? 'bg-blue-200 text-blue-800' :
+                  'bg-purple-200 text-purple-800'
             }`}>
             {achievement.difficulty.charAt(0).toUpperCase() + achievement.difficulty.slice(1)}
           </span>
