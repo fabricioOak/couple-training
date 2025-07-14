@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-gray-50 text-gray-900;
+	}
+}
+
+@layer components {
+	.calendar-day {
+		@apply w-10 h-10 flex items-center justify-center rounded-full text-sm font-medium cursor-pointer transition-all hover:bg-gray-200;
+	}
+
+	.calendar-day.today {
+		@apply bg-yellow-100 border-2 border-yellow-400;
+	}
+
+	.calendar-day.completed-ele {
+		@apply bg-blue-200 text-blue-800;
+	}
+
+	.calendar-day.completed-ela {
+		@apply bg-green-200 text-green-800;
+	}
+
+	.calendar-day.completed-ambos {
+		@apply bg-purple-200 text-purple-800;
+	}
+
+	.exercise-card {
+		@apply transition-all duration-300 hover:shadow-md;
+	}
+
+	.exercise-card.is-flipped .details {
+		@apply block;
+	}
+
+	.achievement-card.unlocked {
+		@apply bg-gradient-to-br from-green-50 to-blue-50 border-green-200 shadow-lg;
+	}
+
+	.achievement-card.locked {
+		@apply opacity-60 grayscale;
+	}
+}
