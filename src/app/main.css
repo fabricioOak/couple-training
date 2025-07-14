@@ -79,4 +79,46 @@
 	.exercise-content ul li {
 		@apply ml-4;
 	}
+
+	.exercise-instructions .exercise-content h4 {
+		@apply text-sm font-semibold text-gray-800 mt-3 mb-2 first:mt-0;
+	}
+
+	.exercise-instructions .exercise-content p {
+		@apply text-sm text-gray-600 mb-2 leading-relaxed;
+	}
+
+	.exercise-instructions .exercise-content ol {
+		@apply list-decimal list-inside text-sm text-gray-600 mb-3 space-y-1;
+	}
+
+	.exercise-instructions .exercise-content ul {
+		@apply list-disc list-inside text-sm text-gray-600 mb-3 space-y-1;
+	}
+
+	.exercise-instructions .exercise-content li {
+		@apply leading-relaxed ml-4;
+	}
+
+	.exercise-instructions .exercise-content strong {
+		@apply font-semibold text-gray-800;
+	}
+
+	/* Animações suaves */
+	.exercise-card {
+		transition: all 0.3s ease;
+	}
+
+	.exercise-card:hover {
+		transform: translateY(-2px);
+	}
+
+	/* Estados de hover melhorados */
+	.exercise-instructions .exercise-content {
+		transition: all 0.2s ease;
+	}
+
+	.exercise-instructions .exercise-content:hover {
+		@apply shadow-sm;
+	}
 }
