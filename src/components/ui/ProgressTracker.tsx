@@ -137,7 +137,7 @@ export function ProgressTracker() {
       <Card>
         <h2 className="text-2xl font-bold mb-4">A Vossa Jornada de Progresso</h2>
         <p className="text-gray-700 mb-6">
-          Registem os vossos treinos para visualizar a vossa consistência e manter a motivação em alta.
+          Registem os seus treinos para visualizar a vossa consistência e manter a motivação em alta.
           Cliquem num dia para marcar como concluído!
         </p>
 

@@ -123,7 +123,7 @@ function ExerciseDetailCard({ name, description }: ExerciseDetailCardProps) {
       {isExpanded && (
         <div className="mt-4 pt-4 border-t border-gray-200">
           <div
-            className="prose prose-sm max-w-none text-gray-700"
+            className="exercise-content prose prose-sm max-w-none text-gray-700"
             dangerouslySetInnerHTML={{ __html: description }}
           />
         </div>
@@ -131,3 +131,4 @@ function ExerciseDetailCard({ name, description }: ExerciseDetailCardProps) {
     </Card>
   );
 }
+

@@ -32,7 +32,7 @@ export function Nutrition() {
         <h2 className="text-2xl font-bold mb-4">Nutrição: O Combustível para os Seus Objetivos</h2>
         <p className="text-gray-700 mb-6">
           O treino dá o estímulo, mas a nutrição fornece a energia e os materiais para a mudança.
-          As estratégias são diferentes, pois os vossos objetivos são diferentes.
+          As estratégias são diferentes, pois os seus objetivos são diferentes.
         </p>
 
         <div className="grid md:grid-cols-2 gap-8">

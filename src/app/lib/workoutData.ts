@@ -295,335 +295,335 @@ export const workoutData: WorkoutData = {
 
 export const exerciseLibrary: { [key: string]: string } = {
 	Agachamento: `
-    <h4>Posição Inicial:</h4>
-    <p>Pés à largura dos ombros, dedos ligeiramente apontados para fora. Costas retas, peito aberto.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Fique em pé com os pés na largura dos ombros, dedos levemente apontados pra fora. Mantenha as costas retas e o peito aberto.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Inicie empurrando as ancas para trás e para baixo</li>
+      <li>Comece empurrando o bumbum pra trás e pra baixo</li>
       <li>Mantenha o peso nos calcanhares</li>
       <li>Desça até as coxas ficarem paralelas ao chão</li>
-      <li>Empurre o chão para voltar à posição inicial</li>
+      <li>Empurre o chão com força pra voltar na posição inicial</li>
     </ol>
-    <h4>Pontos Importantes:</h4>
+    <h4>Pontos importantes:</h4>
     <ul>
-      <li>Joelhos alinhados com os pés</li>
-      <li>Peito sempre aberto</li>
-      <li>Não deixe os joelhos ultrapassarem muito as pontas dos pés</li>
+      <li>Joelhos sempre alinhados com os pés</li>
+      <li>Peito sempre pra fora</li>
+      <li>Não deixe os joelhos passarem muito da ponta dos pés</li>
     </ul>
   `,
 
 	"Agachamento Isométrico": `
-    <h4>Posição Inicial:</h4>
-    <p>Mesmo que o agachamento normal, mas com apoio nas costas numa parede.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Igual ao agachamento normal, mas com as costas apoiadas numa parede.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Desça até a posição de agachamento (coxas paralelas)</li>
-      <li>Mantenha a posição pelo tempo determinado</li>
+      <li>Desça até a posição de agachamento (coxas paralelas ao chão)</li>
+      <li>Segure nessa posição pelo tempo que for indicado</li>
       <li>Respire normalmente durante toda a execução</li>
-      <li>Mantenha toda a tensão nos músculos</li>
+      <li>Mantenha toda a força nos músculos</li>
     </ol>
-    <h4>Benefícios:</h4>
+    <h4>Por que é bom:</h4>
     <ul>
       <li>Desenvolve força e resistência muscular</li>
       <li>Melhora a estabilidade</li>
-      <li>Excelente para iniciantes</li>
+      <li>Perfeito pra quem está começando</li>
     </ul>
   `,
 
 	"Flexão de Braços": `
-    <h4>Posição Inicial:</h4>
-    <p>Prancha alta, mãos um pouco mais largas que os ombros. Corpo em linha reta.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Posição de prancha, com as mãos um pouco mais largas que os ombros. Corpo bem reto da cabeça aos pés.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Contraia abdómen e glúteos</li>
+      <li>Contraia bem a barriga e o bumbum</li>
       <li>Baixe o corpo até o peito quase tocar o chão</li>
-      <li>Cotovelos a 45-60 graus do corpo</li>
-      <li>Empurre o chão para voltar</li>
+      <li>Cotovelos ficam entre 45-60 graus do corpo</li>
+      <li>Empurre o chão com força pra voltar</li>
     </ol>
     <h4>Variações:</h4>
     <ul>
-      <li><strong>Iniciante:</strong> Joelhos apoiados</li>
-      <li><strong>Intermediário:</strong> Pés elevados</li>
-      <li><strong>Avançado:</strong> Uma mão ou diamante</li>
+      <li><strong>Iniciante:</strong> Faça com os joelhos apoiados</li>
+      <li><strong>Intermediário:</strong> Pés elevados num banco</li>
+      <li><strong>Avançado:</strong> Uma mão só ou formato diamante</li>
     </ul>
   `,
 
 	"Flexão com Joelhos": `
-    <h4>Posição Inicial:</h4>
+    <h4>Como começar:</h4>
     <p>Igual à flexão normal, mas com os joelhos apoiados no chão.</p>
-    <h4>Execução:</h4>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Joelhos no chão, corpo reto da cabeça aos joelhos</li>
-      <li>Mãos ligeiramente mais largas que os ombros</li>
+      <li>Mãos um pouco mais largas que os ombros</li>
       <li>Baixe o peito em direção ao chão</li>
-      <li>Empurre para voltar à posição inicial</li>
+      <li>Empurre pra voltar na posição inicial</li>
     </ol>
-    <h4>Dicas:</h4>
+    <h4>Dicas importantes:</h4>
     <ul>
-      <li>Mantenha o core contraído</li>
-      <li>Não arqueie as costas</li>
-      <li>Progressão natural para flexões completas</li>
+      <li>Mantenha a barriga contraída</li>
+      <li>Não curve as costas</li>
+      <li>É a evolução natural pra chegar na flexão completa</li>
     </ul>
   `,
 
 	"Flexão Inclinada": `
-    <h4>Posição Inicial:</h4>
-    <p>Mãos apoiadas numa superfície elevada (sofá, cadeira, mesa).</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Apoie as mãos numa superfície elevada (sofá, cadeira, mesa).</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Corpo em linha reta, pés no chão</li>
-      <li>Quanto mais alta a superfície, mais fácil</li>
+      <li>Corpo bem reto, pés no chão</li>
+      <li>Quanto mais alta a superfície, mais fácil fica</li>
       <li>Baixe o peito em direção à superfície</li>
-      <li>Empurre para voltar</li>
+      <li>Empurre pra voltar</li>
     </ol>
-    <h4>Progressão:</h4>
+    <h4>Evolução:</h4>
     <ul>
-      <li>Comece com superfície mais alta</li>
-      <li>Vá baixando gradualmente</li>
-      <li>Objetivo: chegar ao chão</li>
+      <li>Comece com uma superfície bem alta</li>
+      <li>Vá baixando aos poucos</li>
+      <li>Objetivo final: chegar no chão</li>
     </ul>
   `,
 
 	"Flexão Declinada": `
-    <h4>Posição Inicial:</h4>
+    <h4>Como começar:</h4>
     <p>Pés elevados numa superfície (sofá, cadeira), mãos no chão.</p>
-    <h4>Execução:</h4>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Corpo em linha reta, pés elevados</li>
-      <li>Mãos ligeiramente mais largas que os ombros</li>
+      <li>Corpo bem reto, pés elevados</li>
+      <li>Mãos um pouco mais largas que os ombros</li>
       <li>Baixe o peito em direção ao chão</li>
-      <li>Empurre para voltar</li>
+      <li>Empurre pra voltar</li>
     </ol>
-    <h4>Atenção:</h4>
+    <h4>Cuidado:</h4>
     <ul>
       <li>Exercício avançado - mais difícil que flexão normal</li>
-      <li>Trabalha mais a parte superior do peito</li>
+      <li>Trabalha mais a parte de cima do peito</li>
       <li>Exige mais força nos ombros</li>
     </ul>
   `,
 
 	"Ponte de Glúteos": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de costas, joelhos dobrados, pés próximos aos glúteos.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de costas, joelhos dobrados, pés perto do bumbum.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Empurre os calcanhares contra o chão</li>
-      <li>Levante as ancas contraindo os glúteos</li>
-      <li>Forme linha reta dos ombros aos joelhos</li>
-      <li>Pause 1-2 segundos no topo</li>
+      <li>Levante o quadril contraindo bem o bumbum</li>
+      <li>Forme uma linha reta dos ombros até os joelhos</li>
+      <li>Segure por 1-2 segundos lá em cima</li>
     </ol>
-    <h4>Músculos Trabalhados:</h4>
+    <h4>Músculos que trabalham:</h4>
     <ul>
       <li>Glúteos (principal)</li>
-      <li>Isquiotibiais</li>
-      <li>Core</li>
+      <li>Parte de trás da coxa</li>
+      <li>Barriga</li>
     </ul>
   `,
 
 	"Ponte de Glúteos Unilateral": `
-    <h4>Posição Inicial:</h4>
-    <p>Igual à ponte normal, mas com um pé elevado ou uma perna estendida.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Igual à ponte normal, mas com um pé elevado ou uma perna esticada.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Levante uma perna ou apoie num banco</li>
-      <li>Execute a ponte com apenas uma perna</li>
-      <li>Foque na contração do glúteo da perna de apoio</li>
+      <li>Faça a ponte só com uma perna</li>
+      <li>Foque em contrair bem o glúteo da perna que está trabalhando</li>
       <li>Mantenha o equilíbrio</li>
     </ol>
-    <h4>Benefícios:</h4>
+    <h4>Por que é bom:</h4>
     <ul>
-      <li>Maior ativação muscular</li>
+      <li>Trabalha mais cada músculo</li>
       <li>Melhora o equilíbrio</li>
-      <li>Corrige desequilíbrios</li>
+      <li>Corrige diferenças entre os lados</li>
     </ul>
   `,
 
 	"Elevação Pélvica Unilateral": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de costas, um pé no chão, outro elevado.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de costas, um pé no chão, outro no ar.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Mantenha uma perna estendida no ar</li>
-      <li>Levante a pélvis usando apenas a perna de apoio</li>
-      <li>Contraia bem o glúteo da perna que trabalha</li>
-      <li>Desça controladamente</li>
+      <li>Mantenha uma perna esticada no ar</li>
+      <li>Levante a pélvis usando só a perna de apoio</li>
+      <li>Contraia bem o glúteo da perna que está trabalhando</li>
+      <li>Desça devagar sem encostar no chão</li>
     </ol>
     <h4>Dicas:</h4>
     <ul>
-      <li>Movimente apenas a pélvis</li>
-      <li>Mantenha a perna elevada estável</li>
-      <li>Foque na qualidade, não na quantidade</li>
+      <li>Só a pélvis se move</li>
+      <li>Mantenha a perna do ar parada</li>
+      <li>Qualidade é mais importante que quantidade</li>
     </ul>
   `,
 
 	"Prancha Isométrica": `
-    <h4>Posição Inicial:</h4>
-    <p>Antebraços no chão, cotovelos sob os ombros. Corpo em linha reta.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Antebraços no chão, cotovelos embaixo dos ombros. Corpo bem reto.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Contraia abdómen e glúteos</li>
-      <li>Mantenha linha reta da cabeça aos calcanhares</li>
-      <li>Respire constantemente</li>
+      <li>Contraia bem a barriga e o bumbum</li>
+      <li>Mantenha uma linha reta da cabeça aos calcanhares</li>
+      <li>Respire normalmente</li>
       <li>Segure pelo tempo determinado</li>
     </ol>
-    <h4>Erros Comuns:</h4>
+    <h4>Erros comuns:</h4>
     <ul>
       <li>Levantar muito o quadril</li>
       <li>Deixar o quadril cair</li>
-      <li>Tensionar demais o pescoço</li>
+      <li>Forçar muito o pescoço</li>
     </ul>
   `,
 
 	"Prancha Lateral": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de lado, apoiado no antebraço, corpo em linha reta.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de lado, apoiado no antebraço, corpo bem reto.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Antebraço perpendicular ao corpo</li>
       <li>Levante o quadril do chão</li>
-      <li>Forme linha reta dos pés à cabeça</li>
+      <li>Forme uma linha reta dos pés até a cabeça</li>
       <li>Mantenha a posição</li>
     </ol>
-    <h4>Progressões:</h4>
+    <h4>Evoluções:</h4>
     <ul>
       <li><strong>Iniciante:</strong> Joelhos apoiados</li>
-      <li><strong>Intermediário:</strong> Pés empilhados</li>
-      <li><strong>Avançado:</strong> Perna superior elevada</li>
+      <li><strong>Intermediário:</strong> Pés um em cima do outro</li>
+      <li><strong>Avançado:</strong> Perna de cima levantada</li>
     </ul>
   `,
 
 	"Prancha Lateral com Joelho": `
-    <h4>Posição Inicial:</h4>
-    <p>Versão modificada da prancha lateral para iniciantes.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Versão mais fácil da prancha lateral pra quem está começando.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Apoie o antebraço e os joelhos no chão</li>
-      <li>Levante o quadril mantendo joelhos apoiados</li>
-      <li>Corpo reto da cabeça aos joelhos</li>
+      <li>Levante o quadril mantendo os joelhos apoiados</li>
+      <li>Corpo reto da cabeça até os joelhos</li>
       <li>Mantenha a posição</li>
     </ol>
-    <h4>Benefícios:</h4>
+    <h4>Por que é bom:</h4>
     <ul>
-      <li>Fortalece o core lateral</li>
+      <li>Fortalece a lateral da barriga</li>
       <li>Melhora a estabilidade</li>
-      <li>Preparação para prancha lateral completa</li>
+      <li>Preparação pra prancha lateral completa</li>
     </ul>
   `,
 
 	Perdigueiro: `
-    <h4>Posição Inicial:</h4>
-    <p>Posição de quatro apoios (mãos e joelhos).</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Posição de quatro apoios (mãos e joelhos no chão).</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Estenda braço direito e perna esquerda simultaneamente</li>
-      <li>Mantenha por 2-3 segundos</li>
-      <li>Volte à posição inicial</li>
+      <li>Estique o braço direito e a perna esquerda ao mesmo tempo</li>
+      <li>Segure por 2-3 segundos</li>
+      <li>Volte na posição inicial</li>
       <li>Repita com braço esquerdo e perna direita</li>
     </ol>
     <h4>Foco:</h4>
     <ul>
-      <li>Estabilidade do core</li>
+      <li>Estabilidade da barriga</li>
       <li>Coordenação</li>
-      <li>Fortalecimento dos músculos posturais</li>
+      <li>Fortalecimento dos músculos da postura</li>
     </ul>
   `,
 
 	"Pular Corda": `
-    <h4>Posição Inicial:</h4>
+    <h4>Como começar:</h4>
     <p>Pés juntos, corda atrás dos pés, mãos na altura da cintura.</p>
-    <h4>Execução:</h4>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Gire a corda com os pulsos, não com os braços</li>
-      <li>Salte apenas o suficiente para a corda passar</li>
-      <li>Mantenha-se na ponta dos pés</li>
-      <li>Respire ritmicamente</li>
+      <li>Pule só o suficiente pra corda passar</li>
+      <li>Fique na ponta dos pés</li>
+      <li>Respire no ritmo</li>
     </ol>
     <h4>Variações:</h4>
     <ul>
       <li>Pés alternados</li>
-      <li>Dois saltos por giro</li>
-      <li>Saltos laterais</li>
+      <li>Dois pulos por giro</li>
+      <li>Pulos pros lados</li>
     </ul>
   `,
 
 	"Polichinelo Adaptado": `
-    <h4>Posição Inicial:</h4>
-    <p>Pés juntos, braços ao lado do corpo.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Pés juntos, braços do lado do corpo.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Salte abrindo pernas e levantando braços</li>
-      <li>Salte voltando à posição inicial</li>
-      <li>Mantenha ritmo constante</li>
-      <li>Adaptação: sem salto, apenas passo lateral</li>
+      <li>Pule abrindo as pernas e levantando os braços</li>
+      <li>Pule voltando na posição inicial</li>
+      <li>Mantenha um ritmo constante</li>
+      <li>Adaptação: sem pular, só passo pro lado</li>
     </ol>
     <h4>Adaptações:</h4>
     <ul>
-      <li><strong>Baixo impacto:</strong> Passo lateral sem salto</li>
-      <li><strong>Meio impacto:</strong> Só os braços sobem</li>
-      <li><strong>Alto impacto:</strong> Saltos explosivos</li>
+      <li><strong>Baixo impacto:</strong> Passo pro lado sem pular</li>
+      <li><strong>Médio impacto:</strong> Só os braços sobem</li>
+      <li><strong>Alto impacto:</strong> Pulos bem explosivos</li>
     </ul>
   `,
 
 	"Afundo (Lunge)": `
-    <h4>Posição Inicial:</h4>
-    <p>Pés à largura dos quadris, postura ereta.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Pés na largura dos quadris, em pé bem reto.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Dê um passo grande à frente</li>
-      <li>Baixe o corpo até ambos os joelhos ficarem a 90°</li>
-      <li>Joelho de trás quase toca o chão</li>
-      <li>Empurre o calcanhar da frente para voltar</li>
+      <li>Dê um passo grande pra frente</li>
+      <li>Baixe o corpo até os dois joelhos ficarem em 90°</li>
+      <li>Joelho de trás quase encosta no chão</li>
+      <li>Empurre o calcanhar da frente pra voltar</li>
     </ol>
-    <h4>Pontos Importantes:</h4>
+    <h4>Pontos importantes:</h4>
     <ul>
-      <li>Joelho da frente não ultrapassa o pé</li>
-      <li>Tronco sempre ereto</li>
-      <li>Peso distribuído entre as duas pernas</li>
+      <li>Joelho da frente não passa da ponta do pé</li>
+      <li>Tronco sempre reto</li>
+      <li>Peso distribuído nas duas pernas</li>
     </ul>
   `,
 
 	"Escada de Agilidade": `
-    <h4>Equipamento:</h4>
+    <h4>Material:</h4>
     <p>Escada de agilidade no chão ou cones/marcadores.</p>
-    <h4>Execução:</h4>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Um pé por quadrado, movimento rápido</li>
-      <li>Mantenha-se na ponta dos pés</li>
+      <li>Fique na ponta dos pés</li>
       <li>Braços ajudam no equilíbrio</li>
-      <li>Olhe sempre para frente</li>
+      <li>Olhe sempre pra frente</li>
     </ol>
     <h4>Variações:</h4>
     <ul>
       <li>Dois pés por quadrado</li>
-      <li>Lateral (sideways)</li>
+      <li>Movimento de lado</li>
       <li>Dentro-fora-dentro</li>
     </ul>
   `,
 
 	"Marcha com Toque no Cone": `
-    <h4>Equipamento:</h4>
-    <p>Cones ou objetos para marcar.</p>
-    <h4>Execução:</h4>
+    <h4>Material:</h4>
+    <p>Cones ou objetos pra marcar.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Marche no lugar elevando bem os joelhos</li>
-      <li>Toque alternadamente nos cones/objetos</li>
+      <li>Marche no lugar levantando bem os joelhos</li>
+      <li>Toque nos cones/objetos alternadamente</li>
       <li>Mantenha o ritmo constante</li>
       <li>Coordene braços e pernas</li>
     </ol>
-    <h4>Benefícios:</h4>
+    <h4>Por que é bom:</h4>
     <ul>
       <li>Coordenação motora</li>
       <li>Ativação cardiovascular</li>
-      <li>Aquecimento articular</li>
+      <li>Aquecimento das articulações</li>
     </ul>
   `,
 
 	"Deslocamento Lateral c/ Toque": `
-    <h4>Posição Inicial:</h4>
-    <p>Pés à largura dos ombros, ligeiramente agachado.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Pés na largura dos ombros, um pouco agachado.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Desloque-se lateralmente mantendo postura baixa</li>
+      <li>Desloque pros lados mantendo a postura baixa</li>
       <li>Toque o chão ou cone com a mão</li>
       <li>Mantenha o peso nos calcanhares</li>
       <li>Alterne as direções</li>
@@ -632,39 +632,39 @@ export const exerciseLibrary: { [key: string]: string } = {
     <ul>
       <li>Estabilidade lateral</li>
       <li>Fortalecimento das pernas</li>
-      <li>Melhoria da agilidade</li>
+      <li>Melhora da agilidade</li>
     </ul>
   `,
 
 	"Zig-Zag com Cones": `
-    <h4>Equipamento:</h4>
-    <p>Cones ou marcadores dispostos em linha.</p>
-    <h4>Execução:</h4>
+    <h4>Material:</h4>
+    <p>Cones ou marcadores em linha.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Corra em zig-zag entre os cones</li>
       <li>Mantenha velocidade constante</li>
       <li>Baixe o centro de gravidade nas curvas</li>
-      <li>Use os braços para equilíbrio</li>
+      <li>Use os braços pro equilíbrio</li>
     </ol>
     <h4>Variações:</h4>
     <ul>
-      <li>Corrida para frente</li>
-      <li>Corrida lateral</li>
-      <li>Corrida para trás</li>
+      <li>Corrida pra frente</li>
+      <li>Corrida de lado</li>
+      <li>Corrida pra trás</li>
     </ul>
   `,
 
 	"Abdominais (Crunch)": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de costas, joelhos dobrados, mãos atrás da cabeça.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de costas, joelhos dobrados, mãos atrás da cabeça.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Contraia o abdómen trazendo o peito em direção aos joelhos</li>
-      <li>Levante apenas os ombros do chão</li>
-      <li>Expire durante a contração</li>
-      <li>Desça controladamente</li>
+      <li>Contraia a barriga trazendo o peito pros joelhos</li>
+      <li>Levante só os ombros do chão</li>
+      <li>Solte o ar durante a contração</li>
+      <li>Desça devagar</li>
     </ol>
-    <h4>Erros Comuns:</h4>
+    <h4>Erros comuns:</h4>
     <ul>
       <li>Puxar o pescoço com as mãos</li>
       <li>Levantar muito do chão</li>
@@ -673,93 +673,93 @@ export const exerciseLibrary: { [key: string]: string } = {
   `,
 
 	"Super-homem": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de barriga para baixo, braços estendidos à frente.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de barriga pra baixo, braços esticados pra frente.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Levante simultaneamente braços, peito e pernas</li>
-      <li>Mantenha por 2-3 segundos</li>
-      <li>Contraia glúteos e músculos das costas</li>
-      <li>Desça controladamente</li>
+      <li>Levante braços, peito e pernas ao mesmo tempo</li>
+      <li>Segure por 2-3 segundos</li>
+      <li>Contraia bem o bumbum e músculos das costas</li>
+      <li>Desça devagar</li>
     </ol>
-    <h4>Benefícios:</h4>
+    <h4>Por que é bom:</h4>
     <ul>
-      <li>Fortalece a cadeia posterior</li>
+      <li>Fortalece a parte de trás do corpo</li>
       <li>Melhora a postura</li>
-      <li>Contrabalança exercícios frontais</li>
+      <li>Equilibra com exercícios da frente</li>
     </ul>
   `,
 
 	"Elevação de Pernas": `
-    <h4>Posição Inicial:</h4>
-    <p>Deitado de costas, pernas estendidas, mãos ao lado do corpo.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Deite de costas, pernas esticadas, mãos do lado do corpo.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Levante as pernas até ficarem perpendiculares ao chão</li>
-      <li>Mantenha as pernas retas ou ligeiramente flexionadas</li>
-      <li>Desça controladamente sem tocar o chão</li>
-      <li>Mantenha a lombar colada ao chão</li>
+      <li>Mantenha as pernas retas ou um pouco flexionadas</li>
+      <li>Desça devagar sem encostar no chão</li>
+      <li>Mantenha a lombar grudada no chão</li>
     </ol>
-    <h4>Músculos Trabalhados:</h4>
+    <h4>Músculos que trabalham:</h4>
     <ul>
-      <li>Abdómen inferior</li>
+      <li>Parte de baixo da barriga</li>
       <li>Flexores do quadril</li>
       <li>Core profundo</li>
     </ul>
   `,
 
 	"Corrida Estacionária": `
-    <h4>Posição Inicial:</h4>
-    <p>Pés à largura dos quadris, postura ereta.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Pés na largura dos quadris, bem ereto.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Corra no lugar elevando bem os joelhos</li>
-      <li>Mantenha-se na ponta dos pés</li>
+      <li>Corra no lugar levantando bem os joelhos</li>
+      <li>Fique na ponta dos pés</li>
       <li>Movimente os braços naturalmente</li>
       <li>Mantenha ritmo constante</li>
     </ol>
     <h4>Variações:</h4>
     <ul>
-      <li>Joelhos altos</li>
-      <li>Calcanhares aos glúteos</li>
+      <li>Joelhos bem altos</li>
+      <li>Calcanhares no bumbum</li>
       <li>Velocidade variável</li>
     </ul>
   `,
 
 	Burpee: `
-    <h4>Posição Inicial:</h4>
-    <p>Em pé, pés à largura dos ombros.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Em pé, pés na largura dos ombros.</p>
+    <h4>Como fazer:</h4>
     <ol>
       <li>Agache e apoie as mãos no chão</li>
-      <li>Salte com os pés para trás (posição de flexão)</li>
+      <li>Pule com os pés pra trás (posição de flexão)</li>
       <li>Faça uma flexão (opcional)</li>
-      <li>Salte com os pés de volta para perto das mãos</li>
-      <li>Salte para cima com braços estendidos</li>
+      <li>Pule com os pés de volta perto das mãos</li>
+      <li>Pule pra cima com braços esticados</li>
     </ol>
     <h4>Adaptações:</h4>
     <ul>
-      <li><strong>Iniciante:</strong> Sem flexão e sem salto final</li>
+      <li><strong>Iniciante:</strong> Sem flexão e sem pulo final</li>
       <li><strong>Intermediário:</strong> Com flexão</li>
-      <li><strong>Avançado:</strong> Adicionar saltos laterais</li>
+      <li><strong>Avançado:</strong> Adicionar pulos pros lados</li>
     </ul>
   `,
 
 	"Mergulho (Dips)": `
-    <h4>Posição Inicial:</h4>
-    <p>Sentado na beira de uma cadeira/banco, mãos apoiadas ao lado do corpo.</p>
-    <h4>Execução:</h4>
+    <h4>Como começar:</h4>
+    <p>Sente na beira de uma cadeira/banco, mãos apoiadas do lado do corpo.</p>
+    <h4>Como fazer:</h4>
     <ol>
-      <li>Deslize o corpo para fora da cadeira</li>
-      <li>Baixe o corpo flexionando os cotovelos</li>
-      <li>Desça até os cotovelos ficarem a 90°</li>
-      <li>Empurre para voltar à posição inicial</li>
+      <li>Deslize o corpo pra fora da cadeira</li>
+      <li>Baixe o corpo dobrando os cotovelos</li>
+      <li>Desça até os cotovelos ficarem em 90°</li>
+      <li>Empurre pra voltar na posição inicial</li>
     </ol>
-    <h4>Músculos Trabalhados:</h4>
+    <h4>Músculos que trabalham:</h4>
     <ul>
       <li>Tríceps (principal)</li>
       <li>Peitorais</li>
-      <li>Deltoides anterior</li>
+      <li>Parte da frente do ombro</li>
     </ul>
   `,
 };
@@ -768,7 +768,7 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS DE INÍCIO =====
 	"primeiro-treino": {
 		title: "Primeiro Passo",
-		description: "Completaste o teu primeiro treino. A jornada começou!",
+		description: "Você completou o seu primeiro treino. A jornada começou!",
 		unlocked: false,
 		icon: "🚀",
 		category: "inicio",
@@ -777,7 +777,7 @@ export const achievementsData: AchievementData = {
 	"primeira-semana": {
 		title: "Semana de Arranque",
 		description:
-			"Completaste 3 treinos numa semana. O hábito está a formar-se!",
+			"Você completou 3 treinos numa semana. O hábito está se formando!",
 		unlocked: false,
 		icon: "🗓️",
 		category: "inicio",
@@ -785,7 +785,7 @@ export const achievementsData: AchievementData = {
 	},
 	"sequencia-3": {
 		title: "Ritmo Criado",
-		description: "Treinaste 3 dias consecutivos. A consistência é a chave!",
+		description: "Você treinou 3 dias seguidos. A consistência é a chave!",
 		unlocked: false,
 		icon: "🔥",
 		category: "consistencia",
@@ -796,7 +796,7 @@ export const achievementsData: AchievementData = {
 	"dez-treinos": {
 		title: "Construtor de Hábitos",
 		description:
-			"Completaste 10 treinos. O exercício está a tornar-se parte da tua vida!",
+			"Você completou 10 treinos. O exercício está virando parte da sua vida!",
 		unlocked: false,
 		icon: "💪",
 		category: "consistencia",
@@ -804,7 +804,7 @@ export const achievementsData: AchievementData = {
 	},
 	"vinte-cinco-treinos": {
 		title: "Dedicação Sólida",
-		description: "Completaste 25 treinos. O teu compromisso é admirável!",
+		description: "Você completou 25 treinos. O seu compromisso é admirável!",
 		unlocked: false,
 		icon: "💎",
 		category: "consistencia",
@@ -813,7 +813,7 @@ export const achievementsData: AchievementData = {
 	"cinquenta-treinos": {
 		title: "Meio Século",
 		description:
-			"Completaste 50 treinos. És oficialmente um praticante dedicado!",
+			"Você completou 50 treinos. Você é oficialmente um praticante dedicado!",
 		unlocked: false,
 		icon: "⭐",
 		category: "consistencia",
@@ -821,7 +821,8 @@ export const achievementsData: AchievementData = {
 	},
 	"cem-treinos": {
 		title: "Centena Dourada",
-		description: "Completaste 100 treinos. És um verdadeiro atleta caseiro!",
+		description:
+			"Você completou 100 treinos. Você é um verdadeiro atleta caseiro!",
 		unlocked: false,
 		icon: "🥇",
 		category: "consistencia",
@@ -829,7 +830,7 @@ export const achievementsData: AchievementData = {
 	},
 	"duzentos-treinos": {
 		title: "Mestre do Movimento",
-		description: "Completaste 200 treinos. A tua dedicação é inspiradora!",
+		description: "Você completou 200 treinos. A sua dedicação é inspiradora!",
 		unlocked: false,
 		icon: "👑",
 		category: "consistencia",
@@ -839,7 +840,7 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS DE SEQUÊNCIAS =====
 	"sequencia-7": {
 		title: "Semana Perfeita",
-		description: "Treinaste 7 dias consecutivos. Imparável!",
+		description: "Você treinou 7 dias seguidos. Imparável!",
 		unlocked: false,
 		icon: "🌟",
 		category: "sequencia",
@@ -847,7 +848,7 @@ export const achievementsData: AchievementData = {
 	},
 	"sequencia-14": {
 		title: "Quinzena de Ferro",
-		description: "Treinaste 14 dias consecutivos. A tua determinação é de aço!",
+		description: "Você treinou 14 dias seguidos. A sua determinação é de aço!",
 		unlocked: false,
 		icon: "🛡️",
 		category: "sequencia",
@@ -855,7 +856,7 @@ export const achievementsData: AchievementData = {
 	},
 	"sequencia-30": {
 		title: "Mês Épico",
-		description: "Treinaste 30 dias consecutivos. És uma lenda!",
+		description: "Você treinou 30 dias seguidos. Você é uma lenda!",
 		unlocked: false,
 		icon: "🏆",
 		category: "sequencia",
@@ -865,7 +866,7 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS MENSAIS =====
 	"mes-perfeito": {
 		title: "Mês Consistente",
-		description: "Completaste 12 treinos num mês. Excelente ritmo!",
+		description: "Você completou 12 treinos num mês. Ritmo excelente!",
 		unlocked: false,
 		icon: "🗓️",
 		category: "mensal",
@@ -873,7 +874,7 @@ export const achievementsData: AchievementData = {
 	},
 	"mes-intenso": {
 		title: "Mês Intenso",
-		description: "Completaste 20 treinos num mês. Dedicação total!",
+		description: "Você completou 20 treinos num mês. Dedicação total!",
 		unlocked: false,
 		icon: "🔥",
 		category: "mensal",
@@ -881,7 +882,7 @@ export const achievementsData: AchievementData = {
 	},
 	"tres-meses": {
 		title: "Trimestre Sólido",
-		description: "Mantiveste consistência por 3 meses seguidos.",
+		description: "Você manteve a consistência por 3 meses seguidos.",
 		unlocked: false,
 		icon: "📅",
 		category: "mensal",
@@ -889,7 +890,7 @@ export const achievementsData: AchievementData = {
 	},
 	"seis-meses": {
 		title: "Meio Ano de Vitórias",
-		description: "Mantiveste o hábito por 6 meses. És um exemplo!",
+		description: "Você manteve o hábito por 6 meses. Você é um exemplo!",
 		unlocked: false,
 		icon: "🎯",
 		category: "mensal",
@@ -900,7 +901,7 @@ export const achievementsData: AchievementData = {
 	"primeiro-ano": {
 		title: "Veterano de Um Ano",
 		description:
-			"Completaste um ano inteiro de treinos. És oficialmente um lifestyle!",
+			"Você completou um ano inteiro de treinos. Isso já é um estilo de vida!",
 		unlocked: false,
 		icon: "🎂",
 		category: "anual",
@@ -908,7 +909,7 @@ export const achievementsData: AchievementData = {
 	},
 	"ano-300": {
 		title: "Ano Épico",
-		description: "Completaste mais de 300 treinos num ano. Extraordinário!",
+		description: "Você completou mais de 300 treinos num ano. Extraordinário!",
 		unlocked: false,
 		icon: "🚀",
 		category: "anual",
@@ -916,7 +917,7 @@ export const achievementsData: AchievementData = {
 	},
 	"dois-anos": {
 		title: "Bienal de Sucesso",
-		description: "Dois anos de dedicação. És um verdadeiro atleta!",
+		description: "Dois anos de dedicação. Você é um verdadeiro atleta!",
 		unlocked: false,
 		icon: "💫",
 		category: "anual",
@@ -926,15 +927,16 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS DE PARCERIA =====
 	"parceria-5": {
 		title: "Dupla Dinâmica",
-		description: "Treinaram juntos 5 vezes. A parceria fortalece!",
+		description: "Vocês treinaram juntos 5 vezes. A parceria fortalece!",
 		unlocked: false,
 		icon: "🤝",
 		category: "parceria",
 		difficulty: "bronze",
 	},
 	"parceria-20": {
-		title: "Equipa Unida",
-		description: "Treinaram juntos 20 vezes. Unidos somos mais fortes!",
+		title: "Equipe Unida",
+		description:
+			"Vocês treinaram juntos 20 vezes. Unidos vocês são mais fortes!",
 		unlocked: false,
 		icon: "💑",
 		category: "parceria",
@@ -942,15 +944,15 @@ export const achievementsData: AchievementData = {
 	},
 	"parceria-50": {
 		title: "Parceiros de Vida",
-		description: "Treinaram juntos 50 vezes. Inspiradores!",
+		description: "Vocês treinaram juntos 50 vezes. Inspiradores!",
 		unlocked: false,
 		icon: "👫",
 		category: "parceria",
 		difficulty: "ouro",
 	},
 	"parceria-100": {
-		title: "Alma Gémea do Treino",
-		description: "Treinaram juntos 100 vezes. Parceria perfeita!",
+		title: "Alma Gêmea do Treino",
+		description: "Vocês treinaram juntos 100 vezes. Parceria perfeita!",
 		unlocked: false,
 		icon: "💞",
 		category: "parceria",
@@ -961,7 +963,7 @@ export const achievementsData: AchievementData = {
 	"ele-resistencia": {
 		title: "Resistência de Ferro",
 		description:
-			"Completaste 20 treinos de condicionamento. O teu fôlego melhorou!",
+			"Você completou 20 treinos de condicionamento. O seu fôlego melhorou!",
 		unlocked: false,
 		icon: "🏃‍♂️",
 		category: "ele",
@@ -969,7 +971,8 @@ export const achievementsData: AchievementData = {
 	},
 	"ele-forca": {
 		title: "Força Bruta",
-		description: "Completaste 50 treinos focados em força. És mais forte!",
+		description:
+			"Você completou 50 treinos focados em força. Você está mais forte!",
 		unlocked: false,
 		icon: "💪",
 		category: "ele",
@@ -977,7 +980,8 @@ export const achievementsData: AchievementData = {
 	},
 	"ele-atleta": {
 		title: "Atleta Caseiro",
-		description: "Completaste 100 treinos de condicionamento. És um atleta!",
+		description:
+			"Você completou 100 treinos de condicionamento. Você é um atleta!",
 		unlocked: false,
 		icon: "🥇",
 		category: "ele",
@@ -987,7 +991,8 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS ESPECÍFICAS DELA =====
 	"ela-transformacao": {
 		title: "Transformação Visível",
-		description: "Completaste 30 treinos de emagrecimento. A mudança é real!",
+		description:
+			"Você completou 30 treinos de emagrecimento. A mudança é real!",
 		unlocked: false,
 		icon: "✨",
 		category: "ela",
@@ -995,7 +1000,8 @@ export const achievementsData: AchievementData = {
 	},
 	"ela-saude": {
 		title: "Saúde Radiante",
-		description: "Completaste 60 treinos focados em saúde. Brilhas!",
+		description:
+			"Você completou 60 treinos focados em saúde. Você está brilhando!",
 		unlocked: false,
 		icon: "🌟",
 		category: "ela",
@@ -1003,7 +1009,7 @@ export const achievementsData: AchievementData = {
 	},
 	"ela-guerreira": {
 		title: "Guerreira da Saúde",
-		description: "Completaste 120 treinos. És uma inspiração!",
+		description: "Você completou 120 treinos. Você é uma inspiração!",
 		unlocked: false,
 		icon: "👸",
 		category: "ela",
@@ -1013,7 +1019,7 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS DE MARCOS ESPECIAIS =====
 	madrugador: {
 		title: "Madrugador Dedicado",
-		description: "Completaste 10 treinos antes das 7h. Disciplina matinal!",
+		description: "Você completou 10 treinos antes das 7h. Disciplina matinal!",
 		unlocked: false,
 		icon: "🌅",
 		category: "especial",
@@ -1021,7 +1027,8 @@ export const achievementsData: AchievementData = {
 	},
 	noturno: {
 		title: "Guerreiro da Noite",
-		description: "Completaste 10 treinos depois das 20h. Determinação noturna!",
+		description:
+			"Você completou 10 treinos depois das 20h. Determinação noturna!",
 		unlocked: false,
 		icon: "🌙",
 		category: "especial",
@@ -1030,7 +1037,7 @@ export const achievementsData: AchievementData = {
 	"fim-de-semana": {
 		title: "Fim de Semana Ativo",
 		description:
-			"Treinaste 20 fins de semana. Não há descanso para os campeões!",
+			"Você treinou 20 fins de semana. Não há descanso pros campeões!",
 		unlocked: false,
 		icon: "🎉",
 		category: "especial",
@@ -1038,7 +1045,7 @@ export const achievementsData: AchievementData = {
 	},
 	superacao: {
 		title: "Superação Total",
-		description: "Treinaste mesmo quando não querias. Isso é caráter!",
+		description: "Você treinou mesmo quando não queria. Isso é caráter!",
 		unlocked: false,
 		icon: "🦾",
 		category: "especial",
@@ -1048,7 +1055,7 @@ export const achievementsData: AchievementData = {
 	// ===== CONQUISTAS ÉPICAS (LONGO PRAZO) =====
 	"lenda-500": {
 		title: "Lenda dos 500",
-		description: "Completaste 500 treinos. És uma lenda absoluta!",
+		description: "Você completou 500 treinos. Você é uma lenda absoluta!",
 		unlocked: false,
 		icon: "👑",
 		category: "lenda",
@@ -1056,7 +1063,7 @@ export const achievementsData: AchievementData = {
 	},
 	"mil-treinos": {
 		title: "Rei/Rainha dos Mil",
-		description: "Completaste 1000 treinos. Estatuto de imortal!",
+		description: "Você completou 1000 treinos. Status de imortal!",
 		unlocked: false,
 		icon: "🏰",
 		category: "lenda",
@@ -1064,7 +1071,7 @@ export const achievementsData: AchievementData = {
 	},
 	"cinco-anos": {
 		title: "Mestre de Cinco Anos",
-		description: "Cinco anos de dedicação. És um exemplo para gerações!",
+		description: "Cinco anos de dedicação. Você é um exemplo pra gerações!",
 		unlocked: false,
 		icon: "🌟",
 		category: "lenda",
@@ -1072,7 +1079,8 @@ export const achievementsData: AchievementData = {
 	},
 	lifestyle: {
 		title: "Lifestyle Definitivo",
-		description: "O treino faz parte da tua identidade. És inspiração pura!",
+		description:
+			"O treino faz parte da sua identidade. Você é inspiração pura!",
 		unlocked: false,
 		icon: "💎",
 		category: "lenda",

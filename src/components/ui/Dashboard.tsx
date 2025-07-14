@@ -39,7 +39,7 @@ export function Dashboard() {
   return (
     <div className="space-y-6">
       <Card>
-        <h2 className="text-2xl font-bold mb-4">Bem-vindos ao vosso treino!</h2>
+        <h2 className="text-2xl font-bold mb-4">Bem-vindos ao seu treino!</h2>
         <p className="text-gray-700 mb-4">
           Esta é a vossa central de treinos. Selecionem quem está a treinar e o dia da semana
           para verem o plano de exercícios personalizado. Lembrem-se: consistência é a chave!

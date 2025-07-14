@@ -21,7 +21,7 @@ export function WorkoutPlan() {
     },
     {
       title: "Especificidade",
-      description: "Os exercícios devem ser específicos para os vossos objetivos individuais.",
+      description: "Os exercícios devem ser específicos para os seus objetivos individuais.",
       icon: "🎯",
       examples: ["Condicionamento (ele)", "Emagrecimento (ela)", "Adaptações personalizadas"]
     },
@@ -53,7 +53,7 @@ export function WorkoutPlan() {
           <WorkoutPhase
             number="2"
             title="Parte Principal"
-            description="O núcleo do treino, onde realizamos os exercícios específicos para atingir os vossos objetivos, seja condicionamento ou perda de peso. A qualidade desta fase depende de um bom aquecimento."
+            description="O núcleo do treino, onde realizamos os exercícios específicos para atingir os seus objetivos, seja condicionamento ou perda de peso. A qualidade desta fase depende de um bom aquecimento."
             color="blue"
           />
           <WorkoutPhase
@@ -66,7 +66,7 @@ export function WorkoutPlan() {
       </Card>
 
       <Card>
-        <h3 className="text-xl font-bold mb-4">O Vosso Calendário Semanal</h3>
+        <h3 className="text-xl font-bold mb-4">O Seu Calendário Semanal</h3>
         <p className="text-gray-700 mb-6">
           A estrutura é de 3 treinos de corpo inteiro por semana em dias não-consecutivos.
           Esta frequência é ótima para estimular o corpo de forma consistente. Os dias de descanso ativo
@@ -157,8 +157,8 @@ interface ScheduleItemProps {
 function ScheduleItem({ day, activity, type, description }: ScheduleItemProps) {
   return (
     <div className={`p-4 rounded-lg border ${type === 'workout'
-        ? 'bg-green-50 border-green-200'
-        : 'bg-gray-50 border-gray-200'
+      ? 'bg-green-50 border-green-200'
+      : 'bg-gray-50 border-gray-200'
       }`}>
       <div className="flex justify-between items-center">
         <div>
