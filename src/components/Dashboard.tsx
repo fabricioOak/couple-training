@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from './Button';
-import { Card } from './Card';
+import { Button } from '@/components/ui/Button';
+import { Card } from '@/components/ui/Card';
 import { workoutData } from '@/app/lib/workoutData';
 import { UserType, WorkoutDay, Exercise } from '@/app/types';
 

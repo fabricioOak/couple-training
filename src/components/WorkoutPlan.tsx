@@ -1,6 +1,6 @@
 'use client';
 
-import { Card } from './Card';
+import { Card } from '@/components/ui/Card';
 
 export function WorkoutPlan() {
   const weeklySchedule = [

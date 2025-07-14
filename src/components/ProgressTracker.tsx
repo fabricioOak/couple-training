@@ -1,9 +1,9 @@
 'use client';
 
 import { useState } from 'react';
-import { Modal } from './Modal';
-import { Button } from './Button';
-import { Card } from './Card';
+import { Modal } from '@/components/ui/Modal';
+import { Button } from '@/components/ui/Button';
+import { Card } from '@/components/ui/Card';
 import { useWorkoutData } from '@/hooks/useWorkoutData';
 import { WorkoutStatus } from '@/app/types';
 
@@ -28,10 +28,8 @@ export function ProgressTracker() {
 
     try {
       if (status === 'nenhum') {
-        console.log('Removendo treino da data:', dateString);
         await deleteWorkout(dateString);
       } else {
-        console.log('Salvando treino:', { dateString, status, notes });
         await saveWorkout(dateString, status, notes);
       }
 

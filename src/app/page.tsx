@@ -1,12 +1,12 @@
 'use client';
 
 import { useState } from 'react';
-import { Dashboard } from '@/components/ui/Dashboard';
-import { ProgressTracker } from '@/components/ui/ProgressTracker';
-import { ExerciseLibrary } from '@/components/ui/ExerciseLibrary';
-import { Achievements } from '@/components/ui/Achievements';
-import { Nutrition } from '@/components/ui/Nutrition';
-import { WorkoutPlan } from '@/components/ui/WorkoutPlan';
+import { Dashboard } from '@/components/Dashboard';
+import { ProgressTracker } from '@/components/ProgressTracker';
+import { ExerciseLibrary } from '@/components/ExerciseLibrary';
+import { Achievements } from '@/components/Achievements';
+import { Nutrition } from '@/components/Nutrition';
+import { WorkoutPlan } from '@/components/WorkoutPlan';
 
 type ActiveTab = 'dashboard' | 'plano' | 'biblioteca' | 'progresso' | 'conquistas' | 'nutricao';
 
