@@ -35,6 +35,8 @@ export interface Achievement {
 	title: string;
 	description: string;
 	unlocked: boolean;
+	category: string;
+	difficulty: string;
 	icon: string;
 }
 
